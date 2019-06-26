@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Todo2</string>
+    <string name = "buttonText"> Add</string>
+</resources>
